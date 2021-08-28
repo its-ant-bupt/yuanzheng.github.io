@@ -10,7 +10,7 @@
       <p><b>Address：Beijing University of Posts and Telecommunications, 10 Xitucheng Road, Haidian District, Beijing，Postcode:100876</b></p>
     </td>
     <td width="25%">
-      <img src="/证件照-1寸.jpg" width="100%">     
+      <img src="/zhengjianzhao-1cun.jpg" width="100%">     
     </td>
   </tr>
 </table>
