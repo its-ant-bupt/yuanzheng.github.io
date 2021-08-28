@@ -10,7 +10,7 @@
       <p><b>地址：北京市海淀区西土城路10号北京邮电大学，主楼，邮编100876</b></p>
     </td>
     <td width="25%">
-      <img src="/证件照-1寸.jpg" width="100%">     
+      <img src="/zhengjianzhao-1cun.jpg" width="100%">     
     </td>
   </tr>
 </table>
