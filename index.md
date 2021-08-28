@@ -31,4 +31,4 @@
   - 北京邮电大学本科校级二等奖 2017-2018/2018-2019
   - 北京邮电大学本科国家励志奖学金 2019-2020
 
-<a href="https://github.com/pipihaiziguai/yuanzheng.github.io/edit/gh-pages/index-en.html">英文版</a>
+<a href="./index-en.html">英文版</a>
